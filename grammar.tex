@@ -1,5 +1,8 @@
 \documentclass{article}
 
+\usepackage{makecell}
+\usepackage{tipa}
+
 \newcommand{\name}{\textit{Language Name}}
 
 \title{\name{} Grammar}
@@ -8,4 +11,28 @@
 
 \begin{document}
     \maketitle
+    \section{Phonology}
+    \name{}'s phonology is modeled after that of Old English.
+
+    \subsection{Consonants}
+    \begin{tabular}{| c | c | c | c | c | c | c | c |}
+        \hline
+                            & \thead{Labial}  & \thead{Dental}  & \thead{Alveolar}   & \thead{Post-\\alveolar}          & \thead{Palatal}   & \thead{Velar}     & \thead{Glottal}\\\hline
+        \thead{Nasal}       & \textipa{m}     &                 & \textipa{(\r*n) n} &                                  &                   & \textipa{(N)}     & \\\hline
+        \thead{Stop}        & \textipa{p b}   &                 & \textipa{t d}      &                                  &                   & \textipa{k g}     & \\\hline
+        \thead{Affricate}   &                 &                 &                    & \multicolumn{2}{c|}{\textipa{tS (dZ)}}               &                   & \\\hline
+        \thead{Fricative}   & \textipa{f (v)} & \textipa{T (D)} & \textipa{s (z)}    & \textipa{S}                      & \textipa{(\c{c})} & \textipa{(x G)}   & \textipa{h}\\\hline
+        \thead{Approximant} &                 & \multicolumn{3}{c|}{\textipa{(\r*l) l (\textltilde)}}                   & \textipa{j}       & \textipa{(\*w) w} & \\\hline
+        \thead{Trill}       &                 & \multicolumn{3}{c|}{\textipa{(\r*r) r (r\textsuperscript{\textgamma})}} &                   &                   & \\\hline
+    \end{tabular}
+
+    \subsection{Vowels}
+    \begin{tabular}{| c | c | c | c | c |}
+        \hline
+              & \multicolumn{2}{c|}{\thead{Front}}             & \multicolumn{2}{c|}{\thead{Back}}\\\hline
+              & \thead{unrounded}       & \thead{rounded}      & \thead{unrounded} & \thead{rounded}\\\hline
+        Close & \textipa{i i:}          & \textipa{y y:}       &                   & \textipa{u u:}\\\hline
+        Mid   & \textipa{e e:}          & \textipa{(\o{} \o:)} &                   & \textipa{o o:}\\\hline
+        Open  & \textipa{\ae{} \ae:}    &                      & \textipa{A A:}    & \\\hline
+    \end{tabular}
 \end{document}
