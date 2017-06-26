@@ -15,24 +15,53 @@
     \name{}'s phonology is modeled after that of Old English.
 
     \subsection{Consonants}
-    \begin{tabular}{| c | c | c | c | c | c | c | c |}
+    \begin{tabular}{| c | c | c | c | c | c | c |}
         \hline
-                            & \thead{Labial}  & \thead{Dental}  & \thead{Alveolar}   & \thead{Post-\\alveolar}          & \thead{Palatal}   & \thead{Velar}     & \thead{Glottal}\\\hline
-        \thead{Nasal}       & \textipa{m}     &                 & \textipa{(\r*n) n} &                                  &                   & \textipa{(N)}     & \\\hline
-        \thead{Stop}        & \textipa{p b}   &                 & \textipa{t d}      &                                  &                   & \textipa{k g}     & \\\hline
-        \thead{Affricate}   &                 &                 &                    & \multicolumn{2}{c|}{\textipa{tS (dZ)}}               &                   & \\\hline
-        \thead{Fricative}   & \textipa{f (v)} & \textipa{T (D)} & \textipa{s (z)}    & \textipa{S}                      & \textipa{(\c{c})} & \textipa{(x G)}   & \textipa{h}\\\hline
-        \thead{Approximant} &                 & \multicolumn{3}{c|}{\textipa{(\r*l) l (\textltilde)}}                   & \textipa{j}       & \textipa{(\*w) w} & \\\hline
-        \thead{Trill}       &                 & \multicolumn{3}{c|}{\textipa{(\r*r) r (r\textsuperscript{\textgamma})}} &                   &                   & \\\hline
+                            & \thead{Labial}  & \thead{Dental}  & \thead{Alveolar}   & \thead{Post-\\alveolar}          & \thead{Palatal}    & \thead{Velar}     \\\hline
+        \thead{Nasal}       & \textipa{m}     &                 & \textipa{n}        &                                  &                    & \textipa{(N)}     \\\hline
+        \thead{Stop}        & \textipa{p b}   &                 & \textipa{t d}      &                                  &                    & \textipa{k g}     \\\hline
+        \thead{Affricate}   &                 &                 &                    & \multicolumn{2}{c|}{\textipa{tS dZ}}                  &                   \\\hline
+        \thead{Fricative}   & \textipa{f (v)} & \textipa{T (D)} & \textipa{s (z)}    & \textipa{(S Z)}                  &                    & \textipa{x (G)}   \\\hline
+        \thead{Approximant} &                 & \multicolumn{3}{c|}{\textipa{(\r*l) l}}                                 & \textipa{(\r*j) j} & \textipa{(\*w) w} \\\hline
+        \thead{Trill}       &                 & \multicolumn{3}{c|}{\textipa{(\r*r) r}}                                 &                    &                   \\\hline
     \end{tabular}
+
+    The fricatives \textipa{/f/}, \textipa{/T/}, \textipa{/s/}, \textipa{[S]},
+    and \textipa{/x/} become voiced when in between voiced sounds. Affricate
+    \textipa{/tS/} becomes \textipa{[dZ]} in the same environment, although
+    \textipa{/dZ/} is a phoneme in its own right.
+
+    \textipa{[N]} is an allophone of \textipa{/n/} before any velar consonant.
+
+    \textipa{/r/} and its voiceless counterpart \textipa{/\r*r/} are trills.
+
+    \textipa{/\r*l/}, \textipa{/\r*j/}, \textipa{/\*w/}, and \textipa{/\r*r/}
+    are allophones of their voiced variants following \textipa{/x/}.
+
+    \textipa{/s/} and \textipa{[z]} become \textipa{[S]} and \textipa{[Z]}
+    before back vowels.
+
+    Word-final voiced stops become their nasal counterparts. i.e. \textipa{/b/}
+    becomes \textipa{[m]}, \textipa{/d/} becomes \textipa{[n]}, and
+    \textipa{/g/} becomes \textipa{[N]}.
 
     \subsection{Vowels}
     \begin{tabular}{| c | c | c | c | c |}
         \hline
-              & \multicolumn{2}{c|}{\thead{Front}}             & \multicolumn{2}{c|}{\thead{Back}}\\\hline
-              & \thead{unrounded}       & \thead{rounded}      & \thead{unrounded} & \thead{rounded}\\\hline
-        Close & \textipa{i i:}          & \textipa{y y:}       &                   & \textipa{u u:}\\\hline
-        Mid   & \textipa{e e:}          & \textipa{(\o{} \o:)} &                   & \textipa{o o:}\\\hline
-        Open  & \textipa{\ae{} \ae:}    &                      & \textipa{A A:}    & \\\hline
+                      & \multicolumn{2}{c|}{\thead{Front}}             & \multicolumn{2}{c|}{\thead{Back}}\\\hline
+                      & \thead{unrounded}       & \thead{rounded}      & \thead{unrounded} & \thead{rounded}\\\hline
+        \thead{Close} & \textipa{i i:}          & \textipa{y y:}       &                   & \textipa{u u:}\\\hline
+        \thead{Mid}   & \textipa{e e:}          & \textipa{(\o{} \o:)} &                   & \textipa{o o:}\\\hline
+        \thead{Open}  & \textipa{\ae{} \ae:}    &                      & \textipa{A A:}    & \\\hline
     \end{tabular}
+
+    \begin{tabular}{| c | c | c |}
+        \hline
+                     & \thead{Short}   & \thead{Long}    \\\hline
+        \thead{High} & \textipa{iu}    & \textipa{i:u}   \\\hline
+        \thead{Mid}  & \textipa{eo}    & \textipa{e:o}   \\\hline
+        \thead{Low}  & \textipa{\ae A} & \textipa{\ae:A} \\\hline
+    \end{tabular}
+
+    Each vowel and diphthong in \name{} comes in a pair distinguished by length.
 \end{document}
