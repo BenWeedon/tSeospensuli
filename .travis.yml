@@ -4,12 +4,12 @@ before_install:
 - sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-full
 script:
 - mkdir _build
-- pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build main.tex
+- pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build -jobname tSeospensuli main.tex
 deploy:
   provider: releases
   api_key:
     secure: OfOcPeITlXX+IsoVrRVMTPRJKNpay7HrxROenYCL67okodSVdBL3Mub2UFq7dVrIAgT93IOXy5lxXrL/ECFYBzPwV4IcIjsmgRZp5R3o7Y9mQ3f2bCEm0LGIbKCiHSjzyrVk74nygebvfC45yQUrZgx4jbfYXn3Sp9Xnb3TyYCu+zyDlWCN5/TCM6Qw2xoLE6Bh4wJAU0sZ3i8erypm9D4YT3uKfO7cUZBEdLm/lwrI6ln8G5RIAT7QRihzTfsUSOcv6RPtJMudgP9CxtV3ub98Xeb+184wRmMCscbgIOayluL69Zpesc83G05bZXlo/SO8MnQ412mvS1SGyNLGTp+EcRAsvvn7CqkeKvxA6EGgUMtCnu3wVULs5wMdmt3Vhf8qfadKLBjvZTCKe1G9rS1RcdLu6s8vEc2113Z1vi/AJskUsSzQZFm/9u5NP5QESqhTTRCC3OTDmClZxCCfFKB3ANkyx+coGGaixt+gbx1kBcIn9xlpiSZxAvX0U8gBSn/2QnL6z90mGogxrlSL3pnCq+RgjevICpavk1byEfu5HmmSJIB2b6Eawnn0dGhpX6NbbBEwR2xu9ouqh35GTgZ1A0bvSD+Qf+Y5v0/ORWAkt3OhopQyp16E94ut7xZfnSKio2VUrmfhzwjt8xkZs1mrDVTGFc2ZK5XDg3dS1X1c=
-  file: _build/main.pdf
+  file: _build/tSeospensuli.pdf
   skip_cleanup: true
   on:
     repo: BenWeedon/tSeospensuli
