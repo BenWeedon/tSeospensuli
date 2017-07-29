@@ -12,4 +12,4 @@ deploy:
   local_dir: _build
   skip_cleanup: true
   on:
-    repo: BenWeedon/tSeospensuli
+    repo: benweedon/tSeospensuli
