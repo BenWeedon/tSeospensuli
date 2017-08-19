@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/benweedon/tSeospensuli.svg?branch=master)](https://travis-ci.org/benweedon/tSeospensuli)
+[![Build Status](https://travis-ci.org/benweedon/ceospensuli.svg?branch=master)](https://travis-ci.org/benweedon/ceospensuli)
 
-[Latest PDF](https://benweedon.github.io/tSeospensuli/tSeospensuli.pdf)
+[Latest PDF](https://benweedon.github.io/ceospensuli/ceospensuli.pdf)

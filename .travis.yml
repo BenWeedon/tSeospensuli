@@ -4,7 +4,7 @@ before_install:
 - sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-full
 script:
 - mkdir _build
-- pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build -jobname tSeospensuli main.tex
+- pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build -jobname ceospensuli main.tex
 deploy:
   provider: pages
   github_token:
@@ -12,5 +12,5 @@ deploy:
   local_dir: _build
   skip_cleanup: true
   on:
-    repo: benweedon/tSeospensuli
+    repo: benweedon/ceospensuli
     branch: master
