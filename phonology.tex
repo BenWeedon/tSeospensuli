@@ -1,5 +1,7 @@
 \documentclass[main.tex]{subfiles}
 
+\newcommand{\feat}[1]{$\left[ \begin{array}{l}\text{#1}\end{array}\right]$}
+
 \begin{document}
 \name{}'s phonology is modeled after that of Old English.
 
@@ -54,4 +56,15 @@ becomes \textipa{[m]}, \textipa{/d/} becomes \textipa{[n]}, and
 \end{tabular}
 
 Each vowel and diphthong in \name{} comes in a pair distinguished by length.
+
+\subsection{Phonotactics}
+All syllables in \name{} follow the structure:
+\begin{quote}
+    (C)(C)V(C)(C)
+\end{quote}
+Initial consonant clusters can be either \textipa{/st/}, or
+\feat{+fricative}\feat{+sonorant}, where \textipa{/r/} counts as a
+sonorant.
+
+Final consonant clusters can be either \textipa{/st/} or \textipa{/ln/}.
 \end{document}
