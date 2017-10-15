@@ -2,21 +2,21 @@ word,type,english
 al,c4,sky
 ceos,c4,east
 cin,v,sleep
-edu,c4,beginning; comes from eth $\rightarrow$ ethdu $\rightarrow$ edu
+edu,c4,beginning; comes from eth --> ethdu --> edu
 eth,c4,red
 ethal,c4,sunrise
 faes,c3,cat
 fapen,c1,man
 feor,c4,house
 fist,v,trade
-fistjaefti,c4,cart; lit ``trade cart''
+fistjaefti,c4,cart; lit "trade cart"
 flin,v,bloom
 folaan,c4,water
 folaanten,c4,sea; ocean
 fruu,v,write
 fruuta,v,print; write in a manuscript
 fruutasi,c4,book
-fur,c4,{wood (as in the material, not as in forest)}
+fur,c4,"wood (as in the material, not as in forest)"
 furpiung,c4,bow
 jaefti,c4,wagon
 jhaean,v,see
@@ -25,7 +25,7 @@ kax,c4,settlement; small village; more common in rural dialects
 kaea,adj,great; august; mighty
 ken,c4,stone
 kyy,v,love
-loostiun,v,{rest; more like ``repose'', ``relax'', leisurely}
+loostiun,v,"rest; more like ""repose"", ""relax"", leisurely"
 maal,v,give
 metel,c2,horse
 ner,c3,wolf
@@ -46,7 +46,7 @@ sten,c4,number
 stol,c1,friend
 tefol,c3,bear
 then,v,guard
-thlodu,c4,end; comes from thlos $\rightarrow$ thlosdu $\rightarrow$ thlodu
+thlodu,c4,end; comes from thlos --> thlosdu --> thlodu
 thlos,c4,purple
 thlosal,c4,sunset
 thluun,c4,sword
