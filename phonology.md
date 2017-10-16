@@ -18,18 +18,29 @@ The fricatives [/f/]{.ipa}, [/T/]{.ipa}, [/s/]{.ipa}, [[S]]{.ipa}, and
 becomes [[dZ]]{.ipa} in the same environment, although [/dZ/]{.ipa} is a
 phoneme in its own right.
 
+> [[+fricative]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
+> [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
+
 [[N]]{.ipa} is an allophone of [/n/]{.ipa} or [/m/]{.ipa} before any velar
 consonant.
+
+> [[+nasal]{.phonfeat} [[N]]{.ipa} []{} [+velar]{.phonfeat}]{.phonrule}
 
 [[l_0]]{.ipa}, [[j_0]]{.ipa}, [[W]]{.ipa}, and [[r_0]]{.ipa} are allophones of
 their voiced variants following [/x/]{.ipa}.
 
+> [[+sonorant]{.phonfeat} [-voiced]{.phonfeat} [/x/]{.ipa} []{}]{.phonrule}
+
 [/s/]{.ipa} and [[z]]{.ipa} become [[S]]{.ipa} and [[Z]]{.ipa} before back
 vowels.
+
+> [[+sibilant]{.phonfeat} [+post-alveolar]{.phonfeat} []{} [+vowel +back]{.phonfeat}]{.phonrule}
 
 Word-final voiced stops become their nasal counterparts. i.e. [/b/]{.ipa}
 becomes [[m]]{.ipa}, [/d/]{.ipa} becomes [[n]]{.ipa}, and [/g/]{.ipa} becomes
 [[N]]{.ipa}.
+
+> [[+stop +voiced]{.phonfeat} [+nasal]{.phonfeat} []{} #]{.phonrule}
 
 ## Vowels
 
