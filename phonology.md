@@ -21,8 +21,6 @@ phoneme in its own right.
 [[N]]{.ipa} is an allophone of [/n/]{.ipa} or [/m/]{.ipa} before any velar
 consonant.
 
-[/r/]{.ipa} and its voiceless counterpart [[r_0]]{.ipa} are trills.
-
 [[l_0]]{.ipa}, [[j_0]]{.ipa}, [[W]]{.ipa}, and [[r_0]]{.ipa} are allophones of
 their voiced variants following [/x/]{.ipa}.
 
