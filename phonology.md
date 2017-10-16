@@ -4,7 +4,7 @@ _Ceospensuli_'s phonology is modeled after that of Old English.
 
 ## Consonants
 
-             Labial        Dental           Alveolar      Post-alveolar         Palatal         Velar
+             Labial        Dental          Alveolar      Post-alveolar    Palatal         Velar
 ----------- ------------- --------------- ------------- ---------------- --------------- -------------
 Nasal       [m]{.ipa}                     [n]{.ipa}                                      [(N)]{.ipa}
 Stop        [p b]{.ipa}                   [t d]{.ipa}                                    [k g]{.ipa}
