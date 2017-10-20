@@ -71,3 +71,26 @@ Initial consonant clusters can be either [/st/]{.ipa}, or
 sonorant.
 
 Final consonant clusters can be either [/st/]{.ipa} or [/ln/]{.ipa}.
+
+## Evolution
+
+The list of phonological rules which apply from _Proto-Coastal_ to
+_Ceospensuli_ are as follows:
+
+1. Long vowels come from loss of following consonant
+1. Geminated consonants in _Old Ceospensuli_
+1. Find some way to remove voicing distinction for fricatives. Is making all voiceless fricatives voiced between voiced sounds and voiced fricatives voiceless when next to a voiceless sound boring? Is it realistic?
+1. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (in _Old Ceospensuli_)
+1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
+1. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule} (this is the one below. This one applies going into _Ceospensuli_)
+1. [[+palatal +fricative]{.phonfeat} [+approximant]{.phonfeat} # V]{.phonrule}
+1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} V []{}]{.phonrule}
+1. Need some way to produce velar fricative in positions other than after vowels
+1. Need a way to evolve affricates. Maybe affricates evolve from palatalized stops, which explains why _Ceospensuli_ doesn't have off-glides on stops (see yod-coalescence)
+1. Need a way to remove post-alveolar fricative distinction
+1. Here's all the allophonic variation in _Ceospensuli_
+1. [[+fricative]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
+1. [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
+1. [[+nasal]{.phonfeat} [[N]]{.ipa} []{} [+velar]{.phonfeat}]{.phonrule}
+1. [[+sonorant]{.phonfeat} [-voiced]{.phonfeat} [/x/]{.ipa} []{}]{.phonrule}
+1. [[+stop +voiced]{.phonfeat} [+nasal]{.phonfeat} []{} #]{.phonrule}
