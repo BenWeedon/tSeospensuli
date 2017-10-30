@@ -80,14 +80,24 @@ _Ceospensuli_ are as follows:
 1. Long vowels come from loss of following consonant
 1. Geminated consonants in _Old Ceospensuli_
 1. Find some way to remove voicing distinction for fricatives. Is making all voiceless fricatives voiced between voiced sounds and voiced fricatives voiceless when next to a voiceless sound boring? Is it realistic?
+1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} # []{}]{.phonrule}
+1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} [([-voiced]{.phonfeat})]{} [([-voiced]{.phonfeat})]{}]{.phonrule}
+1. How to make vowels/diphthongs?
+1. [[+mid +front]{.phonfeat} [+high]{.phonfeat} [+velar]{.phonfeat} []{}]{.phonrule}
+1. [[+high +front]{.phonfeat} [+rounded]{.phonfeat} [+labial]{.phonfeat} []{}]{.phonrule}
+1. [[+mid +back]{.phonfeat} [+high]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+low +back]{.phonfeat} [+mid]{.phonfeat} []{} []{}]{.phonrule}
 1. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (in _Old Ceospensuli_)
 1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
 1. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule} (this is the one below. This one applies going into _Ceospensuli_)
+1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} []{} [+high +front]{.phonfeat}]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+approximant]{.phonfeat} # V]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} V []{}]{.phonrule}
-1. Need some way to produce velar fricative in positions other than after vowels
-1. Need a way to evolve affricates. Maybe affricates evolve from palatalized stops, which explains why _Ceospensuli_ doesn't have off-glides on stops (see yod-coalescence)
-1. Need a way to remove post-alveolar fricative distinction
+1. [[+palatal +fricative]{.phonfeat} [+post-alveolar]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+velar +stop]{.phonfeat} [+fricative]{.phonfeat} []{} [+sonorant]{.phonfeat}]{.phonrule}
+1. [[+alveolar +stop]{.phonfeat} [+affricate]{.phonfeat} []{} [+high +front]{.phonfeat}]{.phonrule}
+1. Need a way to sometimes make the high front vowels after affricates elide so affricates don't only appear before high front vowels.
+1. [[+fricative +post-alveolar]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule}
 1. Here's all the allophonic variation in _Ceospensuli_
 1. [[+fricative]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
 1. [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
