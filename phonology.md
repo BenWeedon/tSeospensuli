@@ -44,12 +44,12 @@ becomes [[m]]{.ipa}, [/d/]{.ipa} becomes [[n]]{.ipa}, and [/g/]{.ipa} becomes
 
 ## Vowels
 
-       Front        -->            Back         -->
------ ------------ -------------- ------------ ------------
-      Unrounded    Rounded        Unrounded    Rounded
-Close [i i:]{.ipa} [y y:]{.ipa}                [u u:]{.ipa}
-Mid   [e e:]{.ipa} [(2 2:)]{.ipa}              [o o:]{.ipa}
-Open  [{ {:]{.ipa}                [A A:]{.ipa}
+      Front        -->            Back         -->
+---- ------------ -------------- ------------ ------------
+     Unrounded    Rounded        Unrounded    Rounded
+High [i i:]{.ipa} [y y:]{.ipa}                [u u:]{.ipa}
+Mid  [e e:]{.ipa} [(2 2:)]{.ipa}              [o o:]{.ipa}
+Low  [{ {:]{.ipa}                [A A:]{.ipa}
 
       Short      Long
 ---- ---------- -----------
