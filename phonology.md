@@ -83,9 +83,9 @@ _Ceospensuli_ are as follows:
 1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} # []{}]{.phonrule}
 1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} [([-voiced]{.phonfeat})]{} [([-voiced]{.phonfeat})]{}]{.phonrule}
 1. How to make vowels/diphthongs?
-1. [[+mid +front]{.phonfeat} [+high]{.phonfeat} [+velar]{.phonfeat} []{}]{.phonrule}
+1. [[+mid +front]{.phonfeat} [+low]{.phonfeat} [+velar]{.phonfeat} []{}]{.phonrule}
 1. [[+high +front]{.phonfeat} [+rounded]{.phonfeat} [+labial]{.phonfeat} []{}]{.phonrule}
-1. [[+mid +back]{.phonfeat} [+high]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+mid +back]{.phonfeat} [+low]{.phonfeat} []{} []{}]{.phonrule}
 1. [[+low +back]{.phonfeat} [+mid]{.phonfeat} []{} []{}]{.phonrule}
 1. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (in _Old Ceospensuli_)
 1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
