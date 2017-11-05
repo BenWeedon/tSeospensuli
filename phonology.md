@@ -91,9 +91,12 @@ _Ceospensuli_ are as follows:
 1. [[/&/]{.ipa} [/9/]{.ipa} []{} []{}]{.phonrule} (into _Old Ceospensuli_)
 1. [[/9/]{.ipa} [/eo/]{.ipa} []{} []{}]{.phonrule} (into _Ceospensuli_)
 1. [[/Q/]{.ipa} [/o/]{.ipa} []{} []{}]{.phonrule}
+1. [[+fricative +post-alveolar]{.phonfeat} [+retroflex]{.phonfeat} []{} []{}]{.phonrule}
 1. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (in _Old Ceospensuli_)
 1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
 1. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule} (this is the one below. This one applies going into _Ceospensuli_)
+1. [[+retroflex +fricative]{.phonfeat} [/:/]{.ipa} V []{}]{.phonrule}
+1. [[+retroflex +fricative]{.phonfeat} $\varnothing$ []{} []{}]{.phonrule}  <!-- TODO: support linguistics symbols in linguafilter -->
 1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} []{} [+high +front]{.phonfeat}]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+approximant]{.phonfeat} # V]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} V []{}]{.phonrule}
@@ -101,7 +104,6 @@ _Ceospensuli_ are as follows:
 1. [[+velar +stop]{.phonfeat} [+fricative]{.phonfeat} []{} [+sonorant]{.phonfeat}]{.phonrule}
 1. [[+alveolar +stop]{.phonfeat} [+affricate]{.phonfeat} []{} [+high +front]{.phonfeat}]{.phonrule}
 1. Need a way to sometimes make the high front vowels after affricates elide so affricates don't only appear before high front vowels.
-1. [[+fricative +post-alveolar]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule}
 1. Here's all the allophonic variation in _Ceospensuli_
 1. [[+fricative]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
 1. [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
