@@ -83,14 +83,14 @@ _Ceospensuli_ are as follows:
 1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} # []{}]{.phonrule}
 1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} [([-voiced]{.phonfeat})]{} [([-voiced]{.phonfeat})]{}]{.phonrule}
 1. How to make vowels/diphthongs?
-1. [[+mid +front]{.phonfeat} [+low]{.phonfeat} [+velar]{.phonfeat} []{}]{.phonrule}
-1. [[+mid +back]{.phonfeat} [+high +rounded]{.phonfeat} [+high +front]{.phonfeat} []{}]{.phonrule}
-1. [[+mid +back]{.phonfeat} [+low]{.phonfeat} []{} []{}]{.phonrule}
-1. [[+high +front]{.phonfeat} [+rounded]{.phonfeat} [+labial]{.phonfeat} []{}]{.phonrule}
-1. [[[+low +front]{.phonfeat}[+low +back]{.phonfeat}]{} [[+unrounded]{.phonfeat}[+unrounded]{.phonfeat}]{} []{} []{}]{.phonrule}
-1. [[+low +front]{.phonfeat} [+mid +front +rounded]{.phonfeat} []{} []{}]{.phonrule} (into _Old Ceospensuli_)
-1. [[+mid +front +rounded]{.phonfeat} [[+mid +front -rounded]{.phonfeat} [+mid +back +rounded]{.phonfeat}]{} []{} []{}]{.phonrule} (into _Ceospensuli_)
-1. [[+low +back]{.phonfeat} [+mid]{.phonfeat} []{} []{}]{.phonrule}
+1. [[/e/]{.ipa} [/{/]{.ipa} [+velar]{.phonfeat} []{}]{.phonrule}
+1. [[/7/]{.ipa} [/u/]{.ipa} [+high +front]{.phonfeat} []{}]{.phonrule}
+1. [[/7/]{.ipa} [/A/]{.ipa} []{} []{}]{.phonrule}
+1. [[/i/]{.ipa} [/y/]{.ipa} [+labial]{.phonfeat} []{}]{.phonrule}
+1. [[/&Q/]{.ipa} [/{A/]{.ipa} []{} []{}]{.phonrule}
+1. [[/&/]{.ipa} [/9/]{.ipa} []{} []{}]{.phonrule} (into _Old Ceospensuli_)
+1. [[/9/]{.ipa} [/eo/]{.ipa} []{} []{}]{.phonrule} (into _Ceospensuli_)
+1. [[/Q/]{.ipa} [/o/]{.ipa} []{} []{}]{.phonrule}
 1. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (in _Old Ceospensuli_)
 1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
 1. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule} (this is the one below. This one applies going into _Ceospensuli_)
