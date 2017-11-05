@@ -107,4 +107,5 @@ _Ceospensuli_ are as follows:
 1. [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
 1. [[+nasal]{.phonfeat} [[N]]{.ipa} []{} [+velar]{.phonfeat}]{.phonrule}
 1. [[+sonorant]{.phonfeat} [-voiced]{.phonfeat} [/x/]{.ipa} []{}]{.phonrule}
+1. [[+sibilant]{.phonfeat} [+post-alveolar]{.phonfeat} []{} [+vowel +back]{.phonfeat}]{.phonrule}
 1. [[+stop +voiced]{.phonfeat} [+nasal]{.phonfeat} []{} #]{.phonrule}
