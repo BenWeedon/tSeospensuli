@@ -96,7 +96,7 @@ _Ceospensuli_ are as follows:
 1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
 1. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule} (this is the one below. This one applies going into _Ceospensuli_)
 1. [[+retroflex +fricative]{.phonfeat} [/:/]{.ipa} V []{}]{.phonrule}
-1. [[+retroflex +fricative]{.phonfeat} $\varnothing$ []{} []{}]{.phonrule}  <!-- TODO: support linguistics symbols in linguafilter -->
+1. [[+retroflex +fricative]{.phonfeat} $\varnothing$ []{} []{}]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} []{} [+high +front]{.phonfeat}]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+approximant]{.phonfeat} # V]{.phonrule}
 1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} V []{}]{.phonrule}
