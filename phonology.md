@@ -77,39 +77,36 @@ Final consonant clusters can be either [/st/]{.ipa} or [/ln/]{.ipa}.
 The list of phonological rules which apply from _Proto-Coastal_ to
 _Ceospensuli_ are as follows:
 
-1. Remove fricative voicing distinction
-    a. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} # []{}]{.phonrule}
-    a. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} [([-voiced]{.phonfeat})]{} [([-voiced]{.phonfeat})]{}]{.phonrule}
-1. Produce vowels
-    a. [[/e/]{.ipa} [/{/]{.ipa} [+velar]{.phonfeat} []{}]{.phonrule} (make [/{/]{.ipa} not just an allophone of [/e/]{.ipa})
-    a. [[/7/]{.ipa} [/u/]{.ipa} [+high +front]{.phonfeat} []{}]{.phonrule}
-    a. [[/7/]{.ipa} [/A/]{.ipa} []{} []{}]{.phonrule}
-    a. [[/i/]{.ipa} [/y/]{.ipa} [+labial]{.phonfeat} []{}]{.phonrule} (make [/y/]{.ipa} not just an allophone of [/i/]{.ipa})
-    a. [[/&Q/]{.ipa} [/{A/]{.ipa} []{} []{}]{.phonrule}
-    a. [[/&/]{.ipa} [/9/]{.ipa} []{} []{}]{.phonrule} (into _Old Ceospensuli_)
-    a. [[/9/]{.ipa} [/eo/]{.ipa} []{} []{}]{.phonrule} (into _Ceospensuli_)
-    a. [[/Q/]{.ipa} [/o/]{.ipa} []{} []{}]{.phonrule}
-1. Production of retroflex fricatives
-    a. [[+fricative +post-alveolar]{.phonfeat} [+retroflex]{.phonfeat} []{} []{}]{.phonrule}
-1. Stop transformation and removal of retroflex stops
-    a. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (in _Old Ceospensuli_)
-    a. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule} (this and the one below should apply in this order. This one applies going into _Old Ceospensuli_)
-    a. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule} (this is the one below. This one applies going into _Ceospensuli_)
-1. Removal of retroflex fricatives
-    a. [[+retroflex +fricative]{.phonfeat} [/:/]{.ipa} V []{}]{.phonrule}
-    a. [[+retroflex +fricative]{.phonfeat} $\varnothing$ []{} []{}]{.phonrule}
-1. Palatal fricative transformation and following velar stop transformation to allow for things like [/xj/]{.ipa}
-    a. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} []{} [+back]{.phonfeat}]{.phonrule}
-    a. [[+palatal +fricative]{.phonfeat} [+approximant]{.phonfeat} # V]{.phonrule}
-    a. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} V []{}]{.phonrule}
-    a. [[+palatal +fricative]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule}
-    a. [[+velar +stop]{.phonfeat} [+fricative]{.phonfeat} []{} [+sonorant]{.phonfeat}]{.phonrule}
-1. Alveolar stop affrication (need a way to sometimes make the front vowels after affricates elide so affricates don't only appear before front vowels. Or produce affricates in other ways as well)
-    a. [[+alveolar +stop]{.phonfeat} [+affricate]{.phonfeat} []{} [+front]{.phonfeat}]{.phonrule}
-1. Here's all the allophonic variation in _Ceospensuli_
-    a. [[+fricative]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
-    a. [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
-    a. [[+nasal]{.phonfeat} [[N]]{.ipa} []{} [+velar]{.phonfeat}]{.phonrule}
-    a. [[+sonorant]{.phonfeat} [-voiced]{.phonfeat} [/x/]{.ipa} []{}]{.phonrule}
-    a. [[+sibilant]{.phonfeat} [+post-alveolar]{.phonfeat} []{} [+back]{.phonfeat}]{.phonrule}
-    a. [[+stop +voiced]{.phonfeat} [+nasal]{.phonfeat} []{} #]{.phonrule}
+### _Old Ceospensuli_
+
+1. [[+inter-dental +stop]{.phonfeat} [+fricative]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+fricative +post-alveolar]{.phonfeat} [+retroflex]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+stop]{.phonfeat} [+released]{.phonfeat} [+vowel +long]{.phonfeat} []{}]{.phonrule} (after long vowels emerge)
+1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} []{} [+back]{.phonfeat}]{.phonrule}
+1. [[+palatal +fricative]{.phonfeat} [+velar]{.phonfeat} V []{}]{.phonrule}
+1. [[+palatal +fricative]{.phonfeat} [+approximant]{.phonfeat} # V]{.phonrule}
+1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} # []{}]{.phonrule}
+1. [[/7/]{.ipa} [/u/]{.ipa} [+high +front]{.phonfeat} []{}]{.phonrule}
+1. [[/7/]{.ipa} [/A/]{.ipa} []{} []{}]{.phonrule}
+1. [[/e/]{.ipa} [/{/]{.ipa} [+velar]{.phonfeat} []{}]{.phonrule} (make [/{/]{.ipa} not just an allophone of [/e/]{.ipa})
+1. [[/&Q/]{.ipa} [/{A/]{.ipa} []{} []{}]{.phonrule}
+1. [[/&/]{.ipa} [/9/]{.ipa} []{} []{}]{.phonrule}
+1. [[/Q/]{.ipa} [/o/]{.ipa} []{} []{}]{.phonrule}
+
+### _Ceospensuli_
+
+1. [[+retroflex +stop]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+velar +stop]{.phonfeat} [+fricative]{.phonfeat} []{} [+sonorant -vowel]{.phonfeat}]{.phonrule}
+1. [[+palatal +fricative]{.phonfeat} [+alveolar]{.phonfeat} []{} []{}]{.phonrule}
+1. [[+retroflex +fricative]{.phonfeat} [/:/]{.ipa} V []{}]{.phonrule}
+1. [[+retroflex +fricative]{.phonfeat} $\varnothing$ []{} []{}]{.phonrule}
+1. [[+voiced +fricative]{.phonfeat} [-voiced]{.phonfeat} [([-voiced]{.phonfeat})]{} [([-voiced]{.phonfeat})]{}]{.phonrule}
+1. [[+alveolar +stop]{.phonfeat} [+affricate]{.phonfeat} []{} [+front]{.phonfeat}]{.phonrule} (need a way to sometimes make the front vowels after affricates elide so affricates don't only appear before front vowels. Or produce affricates in other ways as well)
+1. [[+sonorant]{.phonfeat} [-voiced]{.phonfeat} [/x/]{.ipa} []{}]{.phonrule}
+1. [[+nasal]{.phonfeat} [[N]]{.ipa} []{} [+velar]{.phonfeat}]{.phonrule}
+1. [[+stop +voiced]{.phonfeat} [+nasal]{.phonfeat} []{} #]{.phonrule}
+1. [[+fricative]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
+1. [[+affricate]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat} [+voiced]{.phonfeat}]{.phonrule}
+1. [[+sibilant]{.phonfeat} [+post-alveolar]{.phonfeat} []{} [+back]{.phonfeat}]{.phonrule}
+1. [[/9/]{.ipa} [/eo/]{.ipa} []{} []{}]{.phonrule}
+1. [[/i/]{.ipa} [/y/]{.ipa} [+labial]{.phonfeat} []{}]{.phonrule} (make [/y/]{.ipa} not just an allophone of [/i/]{.ipa})
