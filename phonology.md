@@ -110,3 +110,25 @@ _Ceospensuli_ are as follows:
 1. [[+sibilant]{.phonfeat} [+post-alveolar]{.phonfeat} []{} [+back]{.phonfeat}]{.phonrule}
 1. [[/9/]{.ipa} [/eo/]{.ipa} []{} []{}]{.phonrule}
 1. [[/i/]{.ipa} [/y/]{.ipa} [+labial]{.phonfeat} []{}]{.phonrule} (make [/y/]{.ipa} not just an allophone of [/i/]{.ipa})
+
+### Words to keep
+
+* al
+* ceos
+* eth
+* ethal
+* ~fist
+* ~fistjaefti
+* ~flin
+* ~jaefti
+* kaea
+* ken
+* fur
+* loostiun
+* pensul
+* pensuli
+* ~pofoof
+* pomin
+* silethal
+* sil
+* stol
